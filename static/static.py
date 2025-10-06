@@ -1,5 +1,10 @@
-# static.py
-
+HTML = """
+A jigsaw falling into place
+So there is nothing to explain
+You eye each other as you pass
+She looks back, and you look back
+Not just once, and not just twice
+"""  
 HTML = """
 <!DOCTYPE html>
 <html>
